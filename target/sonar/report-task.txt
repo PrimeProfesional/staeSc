@@ -1,0 +1,7 @@
+organization=primeprofesional
+projectKey=primeprofesional_staesc
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.66856
+dashboardUrl=https://sonarcloud.io/dashboard?id=primeprofesional_staesc
+ceTaskId=AZkS_j4LZL7uB_qcSr-6
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZkS_j4LZL7uB_qcSr-6
